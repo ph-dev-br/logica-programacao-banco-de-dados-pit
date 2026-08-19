@@ -4,4 +4,4 @@ Repositório dedicado aos programas criados para resolução de questões e trab
 
 ## Índice
 
-- [Lista 02](./20260616-lista-2/)
+- [Lista 02](./2026-08-16_lista-2/)
