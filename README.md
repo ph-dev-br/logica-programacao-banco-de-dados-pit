@@ -5,3 +5,4 @@ Repositório dedicado aos programas criados para resolução de questões e trab
 ## Índice
 
 - [Lista 02](./2026-08-16_lista-2/)
+- [Lista 03](./2026-08-23_lista-3/08-questao.por)
