@@ -6,3 +6,4 @@ Repositório dedicado aos programas criados para resolução de questões e trab
 
 - [Lista 02](./2026-08-16_lista-2/)
 - [Lista 03](./2026-08-23_lista-3/)
+- [Lista 04](./2026-08-31_lista-4/)
