@@ -14,9 +14,9 @@ programa {
    * precisa compreender que é possível gerar a sequência através da
    * seguinte função matemática:
    * 
-   *        | se (x-1) % 3 == 0, então f(x) = x/3 + 2/3 
-   * f(x) = | se (x-1) % 3 == 1, então f(x) = x/3 + 10/3
-   *        | se (x-1) % 3 == 2, então f(x) = x/3 + 3
+   *        | se (x-1) % 3 == 0, então f(x) = (x+2) / 3 
+   * f(x) = | se (x-1) % 3 == 1, então f(x) = (x+10) / 3
+   *        | se (x-1) % 3 == 2, então f(x) = (x/3) + 3
    */
   funcao inicio() {
     inteiro quantidadeTermos
