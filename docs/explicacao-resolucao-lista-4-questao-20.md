@@ -55,8 +55,8 @@ Tendo em vista a estrutura de uma função do primeiro grau e que no momento tem
 
 $$
 \begin{aligned}
-a &= \frac{\Delta y}{\Delta x} \\[1em]
-a &= \frac{2-1}{4-1} \\[1em]
+a &= \frac{\Delta y}{\Delta x} \\
+a &= \frac{2-1}{4-1} \\
 a &= \frac{1}{3}
 \end{aligned}
 $$
@@ -65,10 +65,10 @@ Agora com os valores atuais, é possível descobrir o coeficiente linear usando 
 
 $$
 \begin{aligned}
-f(x) &= ax+b \\[1em]
-1 &= \frac{1}{3} \cdot 1 + b \\[1em]
-b + \frac{1}{3} &= 1 \\[1em]
-b &=1 - \frac{1}{3}\\[1em]
+f(x) &= ax+b \\
+1 &= \frac{1}{3} \cdot 1 + b \\
+b + \frac{1}{3} &= 1 \\
+b &=1 - \frac{1}{3} \\
 b &= \frac{2}{3}
 \end{aligned}
 $$
@@ -83,8 +83,8 @@ O método de resolução é o mesmo do usado no [1º caso](#1-caso). Começando 
 
 $$
 \begin{aligned}
-a &= \frac{\Delta y}{\Delta x} \\[1em]
-a &= \frac{5-4}{5-2} \\[1em]
+a &= \frac{\Delta y}{\Delta x} \\
+a &= \frac{5-4}{5-2} \\
 a &= \frac{1}{3}
 \end{aligned}
 $$
@@ -93,10 +93,10 @@ Calculando seu coeficiente linear:
 
 $$
 \begin{aligned}
-f(x) &= ax+b \\[1em]
-4 &= \frac{1}{3} \cdot 2 + b \\[1em]
-b + \frac{2}{3} &= 4 \\[1em]
-b &= 4 - \frac{2}{3} \\[1em]
+f(x) &= ax+b \\
+4 &= \frac{1}{3} \cdot 2 + b \\
+b + \frac{2}{3} &= 4 \\
+b &= 4 - \frac{2}{3} \\
 b &= \frac{10}{3}
 \end{aligned}
 $$
@@ -110,8 +110,8 @@ $$f(x) = \frac{x}{3} + \frac{10}{3} \quad \text{ou} \quad  f(x) = \frac{x+10}{3}
 Coeficiente angular:
 $$
 \begin{aligned}
-a &= \frac{\Delta y}{\Delta x} \\[1em]
-a &= \frac{5-4}{6-3} \\[1em]
+a &= \frac{\Delta y}{\Delta x} \\
+a &= \frac{5-4}{6-3} \\
 a &= \frac{1}{3}
 \end{aligned}
 $$
@@ -119,10 +119,10 @@ $$
 Coeficiente linear:
 $$
 \begin{aligned}
-f(x) &= ax+b \\[1em]
-4 &= \frac{1}{3} \cdot 3 + b \\[1em]
-b + 1 &= 4 \\[1em]
-b &= 4 - 1 \\[1em]
+f(x) &= ax+b \\
+4 &= \frac{1}{3} \cdot 3 + b \\
+b + 1 &= 4 \\
+b &= 4 - 1 \\
 b &= 3
 \end{aligned}
 $$
@@ -144,7 +144,7 @@ $$1, 4, 7, 10, ...$$
 
 $$
 \begin{aligned}
-a_1 + r(a_n-1) \\[1em]
+a_1 + r(a_n-1) \\
 1+3(a_n-1)
 \end{aligned}
 $$
@@ -177,8 +177,8 @@ A função matemática que retorna o valor do número, denominada $f(x)$ sendo $
 
 $$
 f(x) = \begin{cases}
-\frac{x+2}{3}, \text{ se } x\mod3  = 1 \\[0.5em]
-\frac{x+10}{3}, \text{ se } x\mod3 = 2 \\[0.5em]
-\frac{x}{3} + 3, \text{ se } x\mod3 = 0 \\[0.5em]
+\frac{x+2}{3}, \text{ se } x\mod3  = 1 \\
+\frac{x+10}{3}, \text{ se } x\mod3 = 2 \\
+\frac{x}{3} + 3, \text{ se } x\mod3 = 0
 \end{cases}
 $$
